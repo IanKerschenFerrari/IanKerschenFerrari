@@ -2,9 +2,9 @@
 
 ```javascript
 const ian = {
-  code: [Python, Javascript, HTML, CSS, Php, Bash],
-  tools: [React, Node, Pandas, Scikit_learn, Matplotlib, SQL, Flask, Json],
-  passions: [Blockchain, Hacking, Web, Game, ML, Arduino]
+  code: [Python, Javascript, HTML, CSS, Php, Shell, C++, ],
+  tools: [Pandas, Scikit_learn, Matplotlib, Flask, SQL, Json, React, Node],
+  passions: [ML, Blockchain, Hacking, Web, Game, Arduino]
 }
 ```
 <h4>You can find me on 🌎:</h4> 
@@ -38,7 +38,7 @@ programming = {
 'Zoom' : 'ML'
 }
 ```
-In the time I'm not programming it's because I'm doing sports, school stuff or spending time with my family.
+In the time I'm not programming it's because I'm doing sports or school stuff.
 I am a very ambitious person with ambitious plans and I know that I will achieve what I want.
 
 If you want to work with me, no problem, just write me on Instagram and I will answer you back
