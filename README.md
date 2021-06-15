@@ -2,7 +2,6 @@
 
 ```javascript
 const ian = {
-  pronouns: "he" | "him",
   code: [Python, Javascript, HTML, CSS, Php, Bash],
   tools: [React, Node, Pandas, Scikit_learn, Matplotlib, SQL, Flask, Json],
   passions: [Blockchain, Hacking, Web, Game, ML, Arduino]
