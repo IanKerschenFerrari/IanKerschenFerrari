@@ -2,9 +2,9 @@
 
 ```javascript
 const ian = {
-  code: [Python, Javascript, HTML, CSS, Php, Shell, C++, ],
-  tools: [Pandas, Scikit_learn, Matplotlib, Flask, SQL, Json, React, Node],
-  passions: [ML, Blockchain, Hacking, Web, Game, Arduino]
+  code: [Python, Javascript, Solidity, HTML, CSS, Php, Shell],
+  tools: [Ganache, Truffle, Node, Pandas, Scikit_learn, Matplotlib, Flask, SQL, Json, React],
+  passions: [NFT, ML, Blockchain, Hacking, Web, Game, Arduino]
 }
 ```
 <h4>You can find me on 🌎:</h4> 
