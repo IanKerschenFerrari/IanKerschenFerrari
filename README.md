@@ -3,7 +3,7 @@
 ```javascript
 const ian = {
   code: [Python, Javascript, Solidity, HTML, CSS, Php, Shell],
-  tools: [Ganache, Truffle, Node, Pandas, Scikit_learn, Matplotlib, Flask, SQL, Json, React],
+  tools: [Ganache, Truffle, Node, Pandas, Scikit_learn, Matplotlib, Flask, SQL, Json, React, Web3],
   passions: [NFT, ML, Blockchain, Hacking, Web, Game, Arduino]
 }
 ```
